@@ -1,0 +1,13 @@
+{
+  "name":"广东专插本备考工作台",
+  "short_name":"专插本工作台",
+  "description":"Marilyn 的广东专插本备考工作台",
+  "start_url":"index.html",
+  "display":"standalone",
+  "background_color":"#fdf3f6",
+  "theme_color":"#e589a6",
+  "icons":[
+    {"src":"apple-touch-icon.png?v=20260818","sizes":"180x180","type":"image/png","purpose":"any"},
+    {"src":"icon-512.png?v=20260818","sizes":"512x512","type":"image/png","purpose":"any"}
+  ]
+}
